@@ -1,5 +1,17 @@
 # Library
 
+1 - Ouvrez votre terminale;
+2 - git clone https://github.com/Keen1483/Bibliotheque-en-ligne-avec-Angular-11-et-Firebase-8-et-Bootsrap-4.5.git
+3 - cd dirtory_name
+4 - npm install
+5 - ng serve -o
+
+ ______MERCI_______
+ 
+ 
+ 
+ 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
 
 ## Development server
